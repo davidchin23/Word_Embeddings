@@ -4,3 +4,6 @@ Side project that employs Continuous-Bag-Of-Words (CBOW) model for word embeddin
 ## File Descriptions
 - 'Word_Embeddings_01.ipynb': Downloading of dataset and preprocessing to obtain the various dataframes for use.
 - 'Word_Embeddings_02.ipynb': Trains and evaluates each model, and tested on the various evaluators.
+
+# Note
+The entire project was intended to be completed in Google Colab for use of GPU, however, due to constant crashing and disconnection, 'Word_Embeddings_02.ipynb' was completed on Kaggle.
